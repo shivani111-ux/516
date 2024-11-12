@@ -1,0 +1,30 @@
+git init
+
+git status(status track or untrack)
+
+git config(used for name and email)
+
+git add(load file or command to stage area and then check the status)
+
+git commit(save)
+
+(create multiple workspaces or folders) git branch
+
+git checkout(navigate using branch name as : git checkout branchname)
+
+(how many times changed the contents of data ) git log(as used for changes history)
+
+git diff(how many difference can be known compares new and previous one)
+
+(merge multilple subfolders in one folder without effecting original one) git merge
+
+git revert(undo the changes)
+
+(connect to global repository)-.connecting local to r3mote or global re[pository
+
+
+git pull(remote to local repository)
+
+the info changes changed in the repository will be visible in our file after executing the pull command in the git bash
+
+ssh-keygen -t rsa -c emailed(command to store file at particular location)as password can be set to this
